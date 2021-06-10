@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+canvas {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 5px;
+margin-bottom: auto;
+border: 8px solid #9b9bdb;
+
+} 
+
+.footer{
+  margin-top: 0;
+  font-weight: bold;
+  background-color: #e5e3e3;
+  text-align: center;
+  height: 30px;
+  font-size:20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer:hover{
+  font-size:20.3px;
+  background-color: #cecece;
+
+}
